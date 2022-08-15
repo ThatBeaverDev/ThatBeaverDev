@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @TeknikSpace
-- 👀 I’m interested in Coding Games, Paddleboarding
-- 🌱 I’m currently learning MCreator, and Eventually Want To Learn Javascript!
-- 💞️ I’m looking to collaborate on Nothing Currently
+-  Hi, I’m TeknikSpace, Develper Of Subterratania
+-  I’m Interested In Game Developing, And Minecraft Modding
+-  I’m currently learning How To Create Google Sites
 
 
 <!---
