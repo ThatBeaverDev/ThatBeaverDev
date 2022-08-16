@@ -1,4 +1,4 @@
--  Hi, I’m TeknikSpace, Develper Of Subterratania
+-  Hi, I’m TeknikSpace, Developer Of Subterratania
 -  I’m Interested In Game Developing, And Minecraft Modding
 -  I’m currently learning How To Create Google Sites (Advanced)
 
