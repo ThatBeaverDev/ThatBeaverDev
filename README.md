@@ -1,1 +1,1 @@
-Makes games that sometimes disappear for fun
+Makes games (that sometimes disappear) for fun
