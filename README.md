@@ -1,1 +1,1 @@
-A Game made for fun, disappears from time to time
+Makes games that sometimes disappear for fun
