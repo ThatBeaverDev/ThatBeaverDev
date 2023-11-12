@@ -6,7 +6,7 @@ Hello! I'm Zac, a high school student from the UK, currently residing in Northum
 
 - Virtual Machines
 - General IT
-- [Interest 3]
+- Engineering, Like Home DIY
 
 ## Skills
 
