@@ -23,7 +23,7 @@ I'm currently working on @Terravast-Game, And TNKS-OS. Feel free to check them o
 
 In the future, I aspire to Finish My Game @Terravast-Game. I'm also looking forward to exploring opportunities in IT / Engineeering.
 
-## Connect with Me
+## Socials
 
 - Discord - https://Discordapp.com/users/1126780404565819502
 - Youtube - https://Youtube.com/@TNKS-Dev
