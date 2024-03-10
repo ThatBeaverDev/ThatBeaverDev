@@ -4,16 +4,16 @@ Hello! I'm Zac, a high school student from the UK, currently residing in Northum
 
 ## Interests
 
-- Virtual Machines
-- General IT
-- Engineering, Like Home DIY
+- Web Development
+- Virtualisation
+- Paddleboarding
 
 ## Skills
 
 I have experience with:
 
 - Running Virtual Machines
-- Scratch, Turbowarp, & Penguinmod (https://scratch.mit.edu https://turbowarp.org https://penguinmod.com)
+- <a href="https://scratch.mit.edu/projects/editor">Scratch</a>, <a href="https://turbowarp.org/editor">Turbowarp</a>, & <a href="https://studio.penguinmod.com/editor.html">Penguinmod</a>
 - HTML, http Requests through Penguinmod (Steam API, Github REST API)
 
 ## Current Projects
