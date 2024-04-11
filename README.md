@@ -27,7 +27,7 @@ In the future, I aspire to Finish My Game @Terravast-Game, And Finalise @Constel
 ## Socials
 
 - Discord - https://Discordapp.com/users/1126780404565819502
-- Youtube - https://Youtube.com/@TNKS-Dev
+- Youtube - https://Youtube.com/@ThatBeaverDev
 
 ## Organisations
 
