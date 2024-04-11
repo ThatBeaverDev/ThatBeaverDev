@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I'm Zac, a high school student from the UK, currently residing in Northumberland. My passion lies in Game Development / Virtual Machines.
+Hello! I'm @ThatBeaverDev, a high school student from the UK, currently residing in Northumberland. My passion lies in Game Development / Virtual Machines.
 
 ## Interests
 
