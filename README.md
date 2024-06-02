@@ -30,6 +30,6 @@ In the future, I want to Finish My Game <a href="https://github.com/Chronomyst-G
 
 ## Organisations
 
-- https://github.com/Chronomyst
+- https://github.com/Chronomyst-Game
 
 # Please note Chronomyst game isn't on github yet.
