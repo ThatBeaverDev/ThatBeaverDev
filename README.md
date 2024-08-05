@@ -1,10 +1,11 @@
 # About Me
 
-Hello! I'm @ThatBeaverDev, a high school student from the UK, currently residing in Northumberland. My passion lies in Game Development / Virtual Machines.
+Hello! I'm @ThatBeaverDev, a high school student from the UK, who wnjoy scoding in Turbowarp and making games.
 
 ## Interests
 
 - Web Development
+- Making a Programming Language
 - Virtualisation
 - Paddleboarding
 
@@ -12,8 +13,9 @@ Hello! I'm @ThatBeaverDev, a high school student from the UK, currently residing
 
 I have experience with:
 
-- Running Virtual Machines
-- Web Development (I mostly use <a href="https://turbowarp.org">Turbowarp</a> for coding)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,apple,docker,js,html,css,vscode,git" />
+  </a>
 
 ## Current Projects
 
@@ -28,8 +30,7 @@ In the future, I want to Finish My Game <a href="https://github.com/Chronomyst-G
 - Discord - https://Discordapp.com/users/1126780404565819502
 - Youtube - https://Youtube.com/@ThatBeaverDev
 
-## Organisations
+## Projects
 
-- https://github.com/Chronomyst-Game
-
-# Please note Chronomyst game isn't on github yet.
+- [Constellinux](https://github.com/ThatBeaverDev/Constellinux), a Web-Based OS, made in Turbowarp that runs CRL Code.
+- A Game, Which I'll Put here when it's more developed.
