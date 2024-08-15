@@ -19,7 +19,7 @@ I have experience with:
 
 ## Current Projects
 
-I'm currently working on <a href="https://github.com/Chronomyst-Game">Chronomyst</a>, And <a href="https://github.com/ThatBeaverDev/Constellinux">Constellinux</a>. Feel free to check them out in my *Organisations* Tab!
+I'm currently working on <a href="https://github.com/Chronomyst-Game">Chronomyst</a>, And <a href="https://github.com/Constellinux">Constellinux</a>. Feel free to check them out in my *Organisations* Tab!
 
 ## Goals
 
@@ -32,5 +32,5 @@ In the future, I want to Finish My Game <a href="https://github.com/Chronomyst-G
 
 ## Projects
 
-- [Constellinux](https://github.com/ThatBeaverDev/Constellinux), a Web-Based OS, made in Turbowarp that runs CRL Code.
+- [Constellinux](https://github.com/Constellinux), a Web-Based OS, made in Turbowarp that runs CRL Code.
 - A Game, Which I'll Put here when it's more developed.
