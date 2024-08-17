@@ -7,7 +7,6 @@ Hello! I'm @ThatBeaverDev, a high school student from the UK, who wnjoy scoding 
 - Web Development
 - Making a Programming Language
 - Virtualisation
-- Paddleboarding
 
 ## Skills
 
@@ -23,11 +22,11 @@ I'm currently working on <a href="https://github.com/Chronomyst-Game">Chronomyst
 
 ## Goals
 
-In the future, I want to Finish My Game <a href="https://github.com/Chronomyst-Game">Chronomyst</a>, And Make <a href="https://github.com/ThatBeaverDev/Constellinux">Constellinux</a> a real Desktop Operating System. I'm also looking forward to exploring opportunities in Computing and IT!.
+In the future, I want to Finish My Game <a href="https://github.com/Chronomyst-Game">Chronomyst</a>, And Make <a href="https://github.com/Constellinux">Constellinux</a> a real Desktop Operating System. I'm also looking forward to exploring opportunities in Computing and IT!.
 
 ## Socials
 
-- Discord - https://Discordapp.com/users/1126780404565819502
+- Discord - https://discordapp.com/users/1126780404565819502
 - Youtube - https://Youtube.com/@ThatBeaverDev
 
 ## Projects
