@@ -13,7 +13,7 @@ Hello! I'm @ThatBeaverDev, a high school student from the UK, who wnjoy scoding 
 I have experience with:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,docker,js,html,css,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,docker,html,css,js,vscode,git" />
   </a>
 
 ## Current Projects
@@ -22,7 +22,7 @@ I'm currently working on <a href="https://github.com/Chronomyst-Game">Chronomyst
 
 ## Goals
 
-In the future, I want to Finish My Game <a href="https://github.com/Chronomyst-Game">Chronomyst</a>, And Make <a href="https://github.com/Constellinux">Constellinux</a> a real Desktop Operating System. I'm also looking forward to exploring opportunities in Computing and IT!.
+Make <a href="https://github.com/Constellinux">Constellinux</a> a real Desktop Operating System (as close as a web-based operating system can get!).
 
 ## Socials
 
@@ -32,4 +32,6 @@ In the future, I want to Finish My Game <a href="https://github.com/Chronomyst-G
 ## Projects
 
 - [Constellinux](https://github.com/Constellinux), a Web-Based OS, made in Turbowarp that runs CRL Code.
-- A Game, Which I'll Put here when it's more developed.
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbeaverdev)](https://github.com/anuraghazra/github-readme-stats)
