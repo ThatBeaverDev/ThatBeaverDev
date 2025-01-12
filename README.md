@@ -18,5 +18,5 @@ I have experience with:
 
 ## Socials
 
-- Discord - https://discordapp.com/users/1126780404565819502
-- Youtube - https://Youtube.com/@ThatBeaverDev
+- [@ThatBeaverDev on Discord](https://discordapp.com/users/1126780404565819502)
+- [@ThatBeaverDev on Youtube](https://Youtube.com/@ThatBeaverDev)
