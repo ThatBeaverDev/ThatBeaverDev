@@ -18,5 +18,4 @@ I have experience with:
 
 ## Socials
 
-- [@ThatBeaverDev on Discord](https://discordapp.com/users/1126780404565819502)
 - [@ThatBeaverDev on Youtube](https://Youtube.com/@ThatBeaverDev)
